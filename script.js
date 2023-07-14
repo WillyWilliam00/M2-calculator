@@ -159,7 +159,7 @@ window.onload = function () {
                     case "-":
                         result = operator1 - operator2
                         break
-                    case "×":
+                    case "*":
                         result = operator1 * operator2
                         break
                     case "/":
